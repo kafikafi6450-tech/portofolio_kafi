@@ -1,0 +1,48 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    text align: center;
+    background : blue;
+    align-items :center;
+    display:flex;
+    flex-direction: column;
+}
+h1{
+    color: rgb(249, 249, 249);
+}
+.foto1{width: 180px;
+    border-radius: 50%;}
+h1{
+    color: rgb(255, 255, 255);
+}
+h2{
+    color: rgb(255, 255, 255);
+}
+p{
+    color: aliceblue;
+}
+h3{
+    color: white;
+}
+li{
+    color: white;
+    text-align: center;
+}
+.foto2{
+    width: 100px;
+}
+body{
+    background-image: url("img/background.jpg");
+    background-position: center;
+    background-size: cover;
+    text-align: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.container{
+    background: rgba(red, green, blue, alpha);
+    color: white;
+
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+}
